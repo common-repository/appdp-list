@@ -1,0 +1,4 @@
+.appdp_widget li{border-bottom:#ccc dashed 1px;clear:both;height:42px;line-height:36px;margin:0;overflow:hidden;padding:0;position:relative;width:100%}
+.appdp_widget li:after{clear:both;content:'\20';display:block;height:0}
+.appdp_widget li .app_thumb{height:32px;margin:5px;width:32px}
+.appdp_widget li span{height:36px;line-height:140%;position:absolute;top:5px}
